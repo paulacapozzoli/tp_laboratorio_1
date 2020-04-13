@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586767335 source:d:\1 mamba\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1586767335 source:d:\1 mamba\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1586767335 d:\1 mamba\tp1\funciones.h
+
