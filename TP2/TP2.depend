@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1589665324 source:d:\1 mamba\1 cursada2020_1cuatri\labo\tp2\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"arrayEmployees.h"
+	"validarCampos.h"
+
+1589665324 d:\1 mamba\1 cursada2020_1cuatri\labo\tp2\tp2\arrayemployees.h
+
+1589565457 d:\1 mamba\1 cursada2020_1cuatri\labo\tp2\tp2\validarcampos.h
+
+1589665400 source:d:\1 mamba\1 cursada2020_1cuatri\labo\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"arrayEmployees.h"
+	"validarCampos.h"
+
+1589565457 source:d:\1 mamba\1 cursada2020_1cuatri\labo\tp2\tp2\validarcampos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validarCampos.h"
+
