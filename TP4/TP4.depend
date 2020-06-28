@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1593312592 source:f:\1 mamba\1 cursada2020_1cuatri\tp4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"validarCampos.h"
+
+1593310482 f:\1 mamba\1 cursada2020_1cuatri\tp4\linkedlist.h
+
+1593311750 f:\1 mamba\1 cursada2020_1cuatri\tp4\employee.h
+	"LinkedList.h"
+
+1590122968 f:\1 mamba\1 cursada2020_1cuatri\tp4\validarcampos.h
+
+1593312696 source:f:\1 mamba\1 cursada2020_1cuatri\tp4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+	"validarCampos.h"
+	"LinkedList.h"
+
+1593311932 source:f:\1 mamba\1 cursada2020_1cuatri\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1593311932 f:\1 mamba\1 cursada2020_1cuatri\tp4\controller.h
+
+1533133022 source:f:\1 mamba\1 cursada2020_1cuatri\tp4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1590122968 source:f:\1 mamba\1 cursada2020_1cuatri\tp4\validarcampos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validarCampos.h"
+
+1593311750 source:f:\1 mamba\1 cursada2020_1cuatri\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
